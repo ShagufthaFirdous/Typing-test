@@ -1,0 +1,23 @@
+{
+    "easy":[
+        "The sun was shining brightly and the birds were singing in the trees. It was a beautiful morning.",
+        "I enjoy spending time with my family. We often sit together, talk about our day, and have dinner.",
+        "Reading books is a good habit. It helps us learn new things and improves our language skills.",
+        "A healthy lifestyle includes good food, enough sleep, and regular exercise. Small habits can make a big difference.",
+        "The rain started in the evening and made the weather cool and pleasant. People walked home carrying colorful umbrellas."
+    ],
+    "medium" : [
+       "Learning programming takes patience and regular practice. Every small project teaches us something new and helps us become better at solving problems.",
+        "Technology has changed the way people communicate, learn, and work. Today, we can access information from almost anywhere in the world.",
+        "Success does not usually happen overnight. It comes from learning from mistakes, staying consistent, and continuing to work toward a goal.",
+        "Good communication is an important skill in both personal and professional life. Listening carefully can help us understand people better.",
+        "Time management allows us to complete important tasks without feeling overwhelmed. Planning our day can help us use our time more effectively." 
+    ],
+    "hard" : [
+        "Modern technology has transformed education by providing students with instant access to information, interactive learning resources, and opportunities to collaborate with people from different parts of the world.",
+        "Programming requires logical thinking, attention to detail, and persistence. When a program does not work as expected, developers must carefully examine the problem and identify the cause before finding an appropriate solution.",
+        "The rapid development of artificial intelligence is changing many industries. While these technologies can improve productivity and create new opportunities, they also require people to continuously develop their skills and adapt to changing environments.",
+        "Effective problem solving involves understanding the situation, identifying possible solutions, evaluating their advantages and disadvantages, and selecting an approach that is both practical and appropriate.",
+        "The internet has made information more accessible than ever before, but users must also learn to evaluate online sources carefully because not every piece of information available on the internet is accurate or reliable."
+    ]
+}
